@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Adrián Fernández
 
-**Especialista en Desarrollo Full Stack**  
+**Especialista en Desarrollo | Full Stack**  
 Atenea Mercantil 🚀 | Asignado en Mercantil Seguros 🛡️
 
 ---
